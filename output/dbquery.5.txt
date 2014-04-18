@@ -1,0 +1,11 @@
+Query count Place of Worship
+[{'_id': 'Hindu', 'count': 1},
+ {'_id': 'bahai', 'count': 1},
+ {'_id': 'Sikh', 'count': 2},
+ {'_id': 'jain', 'count': 2},
+ {'_id': 'buddhist', 'count': 3},
+ {'_id': 'sikh', 'count': 16},
+ {'_id': 'christian', 'count': 22},
+ {'_id': 'muslim', 'count': 28},
+ {'_id': 'hindu', 'count': 79},
+ {'_id': None, 'count': 465103}]

@@ -1,0 +1,198 @@
+{'1': {'Gali No. 1',
+       'Greater Kailash 1',
+       'Sector 1',
+       'Udyog Vihar Phase -1',
+       'south city 1'},
+ '10': {'h/no 1/55 sadar bazar delhi cantt 10'},
+ '11': {'sector 11'},
+ '110/105': {'110/105'},
+ '12': {'Sector 12'},
+ '120': {'sector 120'},
+ '13': {'Sector 13'},
+ '17C': {'Sector 17C'},
+ '2': {'South City 2', 'Sushant Lok 2', 'DLF Phase 2'},
+ '22': {'Marg 22'},
+ '24': {'Sector 24'},
+ '27A': {'Sector 27A'},
+ '3': {'Gharoli Road, Mayur Vihar Phase - 3',
+       'Mayur Vihar Phase - 3',
+       'Okhla Industrial Area Phase 3',
+       'Okhla Phase 3',
+       'Pragati Marg, Mayur Vihar Phase - 3'},
+ '4': {'DLF Phase 4', 'sai nagar 4'},
+ '45': {'Sector 45'},
+ '46': {'Sector 46'},
+ '5': {'gali no 5'},
+ '56': {'Sector 56'},
+ '65': {'Sector 65'},
+ '694': {'hno 694'},
+ '9': {'gali number 9'},
+ 'A': {'Block A'},
+ 'A1': {'Block A1'},
+ 'Area': {'Sarita Vihar Institutional Area'},
+ 'B': {'Block B'},
+ 'Bagh': {'Ahuja Sons Shalwale, Karol Bagh',
+          'Ajmal Khan Road, Karol Bagh',
+          'Karol Bagh'},
+ 'Bazaar': {'Main Bazaar'},
+ 'Camp': {'Tibetan New Camp', 'Hudson Lines, Kingsway Camp'},
+ 'Centre': {'Sector 10, Rohini Twin District Centre'},
+ 'Delhi': {'Phase 1 Ashok Vihar Rd, Delhi'},
+ 'Enclave': {'Vasundhara Enclave', 'Safdarjung Enclave'},
+ 'Estate': {'Lodhi Estate'},
+ 'Faridabad': {'Sector 21-D, Faridabad', 'sector 37, Faridabad'},
+ 'I.P.Extension': {'I.P.Extension'},
+ 'II': {'South City II'},
+ 'III': {'Neeti Khand III', 'Pragati Marg, New Kondli, Mayur Vihar III'},
+ 'Janakpuri': {'C Block, Janakpuri'},
+ 'Janpath': {'Janpath'},
+ 'Kaushambi': {'Link Road, Kaushambi'},
+ 'Kunj': {'Bhavani Kunj, Vasant Kunj'},
+ 'Lok': {'Sushant Lok'},
+ 'Market': {'Khan Market', 'Naoroji Nagar Market'},
+ 'Munirka': {'DDA Flats, Munirka'},
+ 'NIT': {'NIT'},
+ 'NOIDA': {'Sector 16 NOIDA'},
+ 'Noida': {'Greater Noida'},
+ 'Pitampura': {'Pitampura'},
+ 'Plaza': {'Toll Plaza'},
+ 'Road,': {'MVL Coral, Alwar Bypass Road,'},
+ 'Rohini': {'Sector-9, Rohini'},
+ 'S1': {'S1'},
+ 'Sagarpur': {'West Sagarpur'},
+ 'Sec-8': {'Sec-8'},
+ 'Sector-62': {'Sector-62'},
+ 'Sector-63': {'Sector-63'},
+ 'Sector49': {'Sector49'},
+ 'Society': {'Green Street Society'},
+ 'Station': {'Eicher service Station'},
+ 'Station)': {'Najafgarh Road (Next to the Tilak Nagar Police Station)'},
+ 'UDSC': {'UDSC'},
+ 'Vihar': {'170, Phase-1 Udyog Vihar',
+           'Gandhi Vihar',
+           'Palam Vihar',
+           'Saraswati Vihar'},
+ 'VikasPuri': {'D Block, VikasPuri'},
+ 'Village': {'Carterpuri Village'},
+ 'colony': {'new friends colony'},
+ 'course': {'Golf course'},
+ 'cxz': {'cxz'},
+ 'daas': {'sant kabir daas'},
+ 'delhi': {'delhi'},
+ 'garden': {'dilshad garden'},
+ 'gate': {'india gate'},
+ 'janakpuri': {'janakpuri'},
+ 'marg': {'Dr. Bishamber das marg', 'chaudhary fateh singh marg'},
+ 'market': {'Hauz Khas G block market'},
+ 'moti': {'moti'},
+ 'nagar': {'shastri nagar'},
+ 'noida': {'noida'},
+ 'p': {'sector 11, block- p'},
+ 'road': {'Ring road', 'ansari road'},
+ 'vihar': {'swami Narayan Marg, Ashok vihar', 'shankar vihar', 'rail vihar'},
+ 'vikaspuri': {'40,arunodaya appts vikaspuri'}}
+Sector 24 => Sector 24
+Dr. Bishamber das marg => Dr. Bishamber das marg
+chaudhary fateh singh marg => chaudhary fateh singh marg
+sant kabir daas => sant kabir daas
+Sector 16 NOIDA => Sector 16 NOIDA
+UDSC => UDSC
+Sector 46 => Sector 46
+40,arunodaya appts vikaspuri => 40,arunodaya appts vikaspuri
+Sector 45 => Sector 45
+Sector 13 => Sector 13
+Sector 27A => Sector 27A
+Sector 21-D, Faridabad => Sector 21-D, Faridabad
+sector 37, Faridabad => sector 37, Faridabad
+Block A1 => Block A1
+C Block, Janakpuri => C Block, Janakpuri
+Mayur Vihar Phase - 3 => Mayur Vihar Phase - 3
+Pragati Marg, Mayur Vihar Phase - 3 => Pragati Marg, Mayur Vihar Phase - 3
+Gharoli Road, Mayur Vihar Phase - 3 => Gharoli Road, Mayur Vihar Phase - 3
+Okhla Phase 3 => Okhla Phase 3
+Okhla Industrial Area Phase 3 => Okhla Industrial Area Phase 3
+South City 2 => South City 2
+Sushant Lok 2 => Sushant Lok 2
+DLF Phase 2 => DLF Phase 2
+gali no 5 => gali no 5
+DLF Phase 4 => DLF Phase 4
+sai nagar 4 => sai nagar 4
+india gate => india gate
+gali number 9 => gali number 9
+Saraswati Vihar => Saraswati Vihar
+Gandhi Vihar => Gandhi Vihar
+170, Phase-1 Udyog Vihar => 170, Phase-1 Udyog Vihar
+Palam Vihar => Palam Vihar
+Main Bazaar => Main Bazaar
+Neeti Khand III => Neeti Khand III
+Pragati Marg, New Kondli, Mayur Vihar III => Pragati Marg, New Kondli, Mayur Vihar III
+delhi => delhi
+Eicher service Station => Eicher service Station
+janakpuri => janakpuri
+110/105 => 110/105
+hno 694 => hno 694
+Toll Plaza => Toll Plaza
+Sarita Vihar Institutional Area => Sarita Vihar Institutional Area
+Phase 1 Ashok Vihar Rd, Delhi => Phase 1 Ashok Vihar Road, Delhi
+Sushant Lok => Sushant Lok
+S1 => S1
+MVL Coral, Alwar Bypass Road, => MVL Coral, Alwar Bypass Road,
+Link Road, Kaushambi => Link Road, Kaushambi
+shastri nagar => shastri nagar
+Sector-9, Rohini => Sector-9, Rohini
+Golf course => Golf course
+Sector 10, Rohini Twin District Centre => Sector 10, Rohini Twin District Centre
+Sector 65 => Sector 65
+Vasundhara Enclave => Vasundhara Enclave
+Safdarjung Enclave => Safdarjung Enclave
+Ajmal Khan Road, Karol Bagh => Ajmal Khan Road, Karol Bagh
+Ahuja Sons Shalwale, Karol Bagh => Ahuja Sons Shalwale, Karol Bagh
+Karol Bagh => Karol Bagh
+Najafgarh Road (Next to the Tilak Nagar Police Station) => Najafgarh Road (Next to the Tilak Nagar Police Station)
+Hauz Khas G block market => Hauz Khas G block market
+sector 11 => sector 11
+h/no 1/55 sadar bazar delhi cantt 10 => h/no 1/55 sadar bazar delhi cantt 10
+Marg 22 => Marg 22
+Sector 12 => Sector 12
+Sec-8 => Sec-8
+Lodhi Estate => Lodhi Estate
+D Block, VikasPuri => D Block, VikasPuri
+Greater Noida => Greater Noida
+Sector 56 => Sector 56
+Sector 17C => Sector 17C
+DDA Flats, Munirka => DDA Flats, Munirka
+sector 11, block- p => sector 11, block- p
+Janpath => Janpath
+sector 120 => sector 120
+Carterpuri Village => Carterpuri Village
+Khan Market => Khan Market
+Naoroji Nagar Market => Naoroji Nagar Market
+Sector-62 => Sector-62
+Sector-63 => Sector-63
+Ring road => Ring road
+ansari road => ansari road
+NIT => NIT
+Block A => Block A
+south city 1 => south city 1
+Udyog Vihar Phase -1 => Udyog Vihar Phase -1
+Gali No. 1 => Gali No. 1
+Sector 1 => Sector 1
+Greater Kailash 1 => Greater Kailash 1
+new friends colony => new friends colony
+Block B => Block B
+dilshad garden => dilshad garden
+noida => noida
+Green Street Society => Green Street Society
+Tibetan New Camp => Tibetan New Camp
+Hudson Lines, Kingsway Camp => Hudson Lines, Kingsway Camp
+Pitampura => Pitampura
+I.P.Extension => I.P.Extension
+South City II => South City II
+West Sagarpur => West Sagarpur
+Sector49 => Sector49
+moti => moti
+Bhavani Kunj, Vasant Kunj => Bhavani Kunj, Vasant Kunj
+swami Narayan Marg, Ashok vihar => swami Narayan Marg, Ashok vihar
+shankar vihar => shankar vihar
+rail vihar => rail vihar
+cxz => cxz

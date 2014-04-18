@@ -1,0 +1,1 @@
+{'lower': 137850, 'lower_colon': 5805, 'other': 71, 'problemchars': 0}

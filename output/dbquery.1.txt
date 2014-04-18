@@ -1,0 +1,3 @@
+Query earliest entry timestamp
+[{'_id': ObjectId('534eaf7775917475529e85b0'),
+  'timestamp': '2007-09-23T02:35:38Z'}]
