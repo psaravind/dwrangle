@@ -1,0 +1,15 @@
+Data Wrangling with MongoDB
+
+This repository contains source files created for Udacity - Data Wrangling with MongoDB final project.
+
+src - contains all the python scripts
+output - contains all the ouput file created by the python scripts
+data - contains the input data files(not uploaded due to space constraints)
+
+src/mapparser.py - identifies unique tags that are present
+src/tags.py - validates for each tag has valid keys
+src/users.py - identifies unique users
+src/audit.py - audits and updates the street name 
+src/data.py - wrangles the data and transforms the shape of the data
+src/dbinsert.py - inserts data into MongoDB
+src/dbQuery.py - various MongoDB scripts for analysing MongoDB data
